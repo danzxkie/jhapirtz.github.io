@@ -4,7 +4,7 @@
         "title": "Beacon 23",
         "imdb_id": "tt9174724",
         "embed_url_imdb": "https:\\/\\/vidsrc.to\\/embed\\/tv\\/tt9174724"
-    }
+   },
    {
         "type": "movie",
         "title": "Napoleon",
